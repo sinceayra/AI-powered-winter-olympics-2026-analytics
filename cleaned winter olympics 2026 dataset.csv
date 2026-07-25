@@ -1,0 +1,251 @@
+athlete_id,athlete_name,gender,age,age_group,date_of_birth,nationality,country_name,sport,event,team_or_individual,medal,result_value,result_unit,total_olympics_attended,total_medals_won,gold_medals,silver_medals,bronze_medals,country_total_gold,country_total_medals,country_first_participation,country_best_rank,is_record_holder,coach_name,height_cm,weight_kg,bmi
+ATH-08517,Alysa Liu,Female,21,18-24,08/08/2005,USA,United States,Figure Skating,Women's Singles,Individual,Gold,230.15,points,2,2,1,0,1,1073,3015,1896,1,No,Lorenzo Magri,152,48,20.8
+ATH-08569,Alyssa Johnson,Female,29,25-29,17/05/1997,USA,United States,Curling,Women's Tournament,Team,Silver,5.43,points,2,3,1,1,1,1073,3015,1896,1,No,John Campbell,160.2,55.2,21.5
+ATH-08559,Anais Bernard,Female,19,18-24,17/04/2007,FRA,France,Cross-Country Skiing,50km Mass Start,Team,None,,,1,0,0,0,0,254,780,1896,1,No,Yuri Borodavko,176.3,69.6,22.4
+ATH-08679,Anais Dubois,Female,37,35-39,19/10/1989,FRA,France,Curling,Men's Tournament,Team,None,,,1,0,0,0,0,254,780,1896,1,No,Mikael Andersson,170.4,61,21.0
+ATH-08733,Anais Richard,Female,26,25-29,15/07/2000,FRA,France,Cross-Country Skiing,50km Mass Start,Individual,Bronze,12.61,minutes,2,1,0,0,1,254,780,1896,1,No,Gilles Jager,173,65.3,21.8
+ATH-08655,Anna Müller,Female,29,25-29,07/10/1997,GER,Germany,Skeleton,Women's Skeleton,Individual,None,,,3,0,0,0,0,283,900,1896,1,No,Yuri Borodavko,168.8,62.5,21.9
+ATH-08597,Antoine Bernard,Male,34,30-34,24/12/1992,FRA,France,Ice Hockey,Men's Tournament,Team,Bronze,4.24,goals,2,1,0,0,1,254,780,1896,1,No,Stephan Hanke,173.4,71.6,23.8
+ATH-08636,Antoine Petit,Male,22,18-24,14/05/2004,FRA,France,Ski Mountaineering,Women's Sprint,Individual,None,,,1,0,0,0,0,254,780,1896,1,No,John Campbell,191.4,83.1,22.7
+ATH-08539,Antoine Robert,Male,37,35-39,01/06/1989,FRA,France,Ski Jumping,Team Large Hill,Individual,None,,,3,0,0,0,0,254,780,1896,1,No,Dieter Hegen,174.4,75,24.7
+ATH-08573,Antoinette Bakker,Female,25,25-29,17/04/2001,NED,Netherlands,Ski Mountaineering,Women's Sprint,Team,None,,,1,0,0,0,0,131,380,1900,1,No,Stephan Hanke,155.6,40.8,16.9
+ATH-08603,Antoinette Smit,Female,30,30-34,03/02/1996,NED,Netherlands,Curling,Men's Tournament,Team,None,,,1,0,0,0,0,131,380,1900,1,No,Stephan Hanke,162.9,56.1,21.1
+ATH-08654,Antoinette de Vries,Female,38,35-39,19/09/1988,NED,Netherlands,Snowboarding,Parallel Giant Slalom,Individual,None,,,1,0,0,0,0,131,380,1900,1,No,Alexander Wolf,171,51.4,17.6
+ATH-08523,Auston Matthews,Male,29,25-29,17/09/1997,USA,United States,Ice Hockey,Men's Tournament,Team,Gold,4,goals,1,1,1,0,0,1073,3015,1896,1,No,John Hynes,191,100,27.4
+ATH-08504,Ayumu Hirano,Male,28,25-29,29/11/1998,JPN,Japan,Snowboarding,Halfpipe,Individual,Silver,92.25,points,4,4,1,3,0,173,520,1912,1,No,Yoshimi Hirano,165,50,18.4
+ATH-08554,Beat Odermatt,Male,29,25-29,18/02/1997,SUI,Switzerland,Bobsleigh,4-man,Individual,None,,,3,0,0,0,0,115,360,1896,1,No,Marc Gauthier,183.8,77.7,23.0
+ATH-08671,Beat Suter,Male,23,18-24,11/03/2003,SUI,Switzerland,Cross-Country Skiing,4x10km Relay,Individual,None,,,3,2,1,0,1,115,360,1896,1,No,Alexander Wolf,182.6,88.8,26.6
+ATH-08530,Brad Jacobs,Male,41,40+,11/06/1985,CAN,Canada,Curling,Men's Tournament,Team,Gold,9,points,2,2,2,0,0,124,540,1900,1,No,Caleb Flaxey,185,88,25.7
+ATH-08644,Brad Jones,Male,24,18-24,03/03/2002,GBR,Great Britain,Snowboarding,Slopestyle,Individual,None,,,3,1,0,1,0,288,960,1896,1,No,Elena Valbe,179.9,77.8,24.0
+ATH-08611,Brad Smith,Male,26,25-29,03/09/2000,GBR,Great Britain,Snowboarding,Halfpipe,Individual,None,,,1,0,0,0,0,288,960,1896,1,No,Mikael Andersson,168.1,69.1,24.5
+ATH-08670,Brad Thomas,Male,27,25-29,20/08/1999,GBR,Great Britain,Alpine Skiing,Downhill,Individual,None,,,3,0,0,0,0,288,960,1896,1,No,Stephan Hanke,176.1,66.2,21.3
+ATH-08676,Brooke Gagnon,Female,28,25-29,08/07/1998,CAN,Canada,Biathlon,12.5km Pursuit,Individual,None,,,2,0,0,0,0,124,540,1900,1,No,Mikael Andersson,169.4,61.5,21.4
+ATH-08711,Brooke MacDonald,Female,24,18-24,17/06/2002,CAN,Canada,Biathlon,12.5km Pursuit,Individual,None,,,1,0,0,0,0,124,540,1900,1,No,Gilles Jager,175.6,68.3,22.1
+ATH-08734,Brooke Tremblay,Female,38,35-39,21/02/1988,CAN,Canada,Curling,Mixed Doubles,Team,None,,,1,0,0,0,0,124,540,1900,1,No,Dieter Hegen,168.9,58.2,20.4
+ATH-08642,Bruce Brown,Male,20,18-24,03/01/2006,GBR,Great Britain,Bobsleigh,2-man,Individual,None,,,1,0,0,0,0,288,960,1896,1,No,Gilles Jager,174,76.4,25.2
+ATH-08638,Bruce Evans,Male,25,25-29,12/09/2001,GBR,Great Britain,Ski Mountaineering,Mixed Relay,Individual,None,,,1,0,0,0,0,288,960,1896,1,No,Hanspeter Lüscher,179.2,82.1,25.6
+ATH-08744,Calle Larsson,Male,24,18-24,21/02/2002,SWE,Sweden,Ski Mountaineering,Mixed Relay,Individual,Silver,1073.99,seconds,1,1,0,1,0,202,535,1896,1,No,Dieter Hegen,192.4,99.8,27.0
+ATH-08568,Camille Keller,Female,28,25-29,18/06/1998,SUI,Switzerland,Cross-Country Skiing,4x10km Relay,Team,Bronze,10.48,minutes,1,1,0,0,1,115,360,1896,1,No,Marc Gauthier,160.5,55.4,21.5
+ATH-08602,Camille Müller,Female,26,25-29,20/08/2000,SUI,Switzerland,Speed Skating,1000m,Individual,None,,,1,0,0,0,0,115,360,1896,1,No,Dieter Hegen,158.8,49.9,19.8
+ATH-08745,Camille Robert,Female,36,35-39,16/01/1990,FRA,France,Skeleton,Men's Skeleton,Individual,None,,,2,1,1,0,0,254,780,1896,1,No,Elena Valbe,156.3,43.6,17.8
+ATH-08624,Camille Schmid,Female,18,18-24,22/12/2008,SUI,Switzerland,Ski Jumping,Large Hill Individual,Individual,None,,,2,0,0,0,0,115,360,1896,1,No,Hanspeter Lüscher,159.6,52.7,20.7
+ATH-08653,Camille Thomas,Female,25,25-29,03/09/2001,FRA,France,Ski Mountaineering,Women's Sprint,Individual,None,,,1,0,0,0,0,254,780,1896,1,No,Mikael Andersson,164,57.8,21.5
+ATH-08610,Camille Weber,Female,29,25-29,18/10/1997,SUI,Switzerland,Figure Skating,Team Event,Individual,None,,,1,0,0,0,0,115,360,1896,1,No,Alexander Wolf,165.5,55,20.1
+ATH-08555,Charlotte Wilson,Female,31,30-34,06/06/1995,GBR,Great Britain,Ice Hockey,Women's Tournament,Team,None,,,1,0,0,0,0,288,960,1896,1,No,Elena Valbe,170.6,66.7,22.9
+ATH-08542,Chase Chen,Male,20,18-24,27/04/2006,USA,United States,Speed Skating,1000m,Individual,None,,,1,0,0,0,0,1073,3015,1896,1,No,Mikael Andersson,167.5,68.9,24.6
+ATH-08631,Chase Jacobson,Male,28,25-29,08/09/1998,USA,United States,Bobsleigh,Monobob,Team,Silver,235.92,seconds,1,1,0,1,0,1073,3015,1896,1,No,Marc Gauthier,176.8,74.1,23.7
+ATH-08739,Chloe Chen,Female,29,25-29,06/02/1997,USA,United States,Ice Hockey,Men's Tournament,Team,None,,,2,0,0,0,0,1073,3015,1896,1,No,Stephan Hanke,169.8,63,21.9
+ATH-08503,Chloe Kim,Female,26,25-29,23/04/2000,USA,United States,Snowboarding,Halfpipe,Individual,Gold,94,points,3,3,3,0,0,1073,3015,1896,1,No,Rick Bower,160,52,20.3
+ATH-08673,Chloe Smith,Female,20,18-24,18/11/2006,USA,United States,Skeleton,Women's Skeleton,Individual,None,,,2,0,0,0,0,1073,3015,1896,1,No,Gilles Jager,158.1,46.6,18.6
+ATH-08700,Clement Dubois,Male,31,30-34,09/04/1995,FRA,France,Luge,Women's Singles,Team,None,,,3,0,0,0,0,254,780,1896,1,No,John Campbell,176.4,72.6,23.3
+ATH-08606,Clement Durand,Male,30,30-34,17/07/1996,FRA,France,Ice Hockey,Men's Tournament,Team,None,,,2,0,0,0,0,254,780,1896,1,No,Marc Gauthier,189.1,86.8,24.3
+ATH-08665,Clement Petit,Male,18,18-24,19/01/2008,FRA,France,Figure Skating,Women's Singles,Individual,None,,,1,0,0,0,0,254,780,1896,1,No,Marc Gauthier,174.8,68.1,22.3
+ATH-08666,Clement Robert,Male,36,35-39,03/08/1990,FRA,France,Ski Mountaineering,Men's Sprint,Individual,None,,,2,1,1,0,0,254,780,1896,1,No,Stephan Hanke,180,69.8,21.5
+ATH-08524,Connor McDavid,Male,29,25-29,13/01/1997,CAN,Canada,Ice Hockey,Men's Tournament,Team,Silver,3,goals,1,1,0,1,0,124,540,1900,1,No,Jon Cooper,185,88,25.7
+ATH-08608,Cornelia Huber,Female,27,25-29,01/11/1999,AUT,Austria,Biathlon,12.5km Pursuit,Individual,None,,,2,0,0,0,0,95,350,1896,2,No,Marc Gauthier,171.8,61.3,20.8
+ATH-08545,Cornelia Schmid,Female,23,18-24,15/09/2003,AUT,Austria,Cross-Country Skiing,50km Mass Start,Individual,None,,,1,0,0,0,0,95,350,1896,2,No,Marc Gauthier,160.9,46.4,17.9
+ATH-08635,Daniel Huber,Male,18,18-24,04/07/2008,AUT,Austria,Ski Jumping,Large Hill Individual,Individual,None,,,1,0,0,0,0,95,350,1896,2,No,Elena Valbe,178.9,72.9,22.8
+ATH-08622,Daniel Pfeifer,Male,32,30-34,08/11/1994,AUT,Austria,Biathlon,15km Individual,Individual,None,,,1,0,0,0,0,95,350,1896,2,No,Dieter Hegen,175.7,72.9,23.6
+ATH-08595,David White,Male,27,25-29,27/12/1999,USA,United States,Ice Hockey,Men's Tournament,Team,None,,,2,0,0,0,0,1073,3015,1896,1,No,Dieter Hegen,187.7,98.7,28.0
+ATH-08605,Davide Bianchi,Male,21,18-24,03/06/2005,ITA,Italy,Ice Hockey,Men's Tournament,Team,None,,,1,0,0,0,0,257,780,1896,1,No,Stephan Hanke,188.1,89.3,25.2
+ATH-08682,Davide Goggia,Male,35,35-39,12/11/1991,ITA,Italy,Speed Skating,5000m,Individual,Bronze,267.08,seconds,1,1,0,0,1,257,780,1896,1,No,John Campbell,185.5,83.4,24.2
+ATH-08609,Davide Rossi,Male,25,25-29,19/05/2001,ITA,Italy,Cross-Country Skiing,10km Freestyle,Individual,Bronze,15.42,minutes,2,1,0,0,1,257,780,1896,1,No,Hanspeter Lüscher,178.7,79.2,24.8
+ATH-08680,Ebba Larsson,Female,29,25-29,16/09/1997,SWE,Sweden,Ski Mountaineering,Men's Sprint,Individual,None,,,2,0,0,0,0,202,535,1896,1,No,Elena Valbe,173.3,62.9,20.9
+ATH-08591,Ebba Olsson,Female,27,25-29,14/06/1999,SWE,Sweden,Ice Hockey,Men's Tournament,Team,None,,,1,0,0,0,0,202,535,1896,1,No,Hanspeter Lüscher,162,46.7,17.8
+ATH-08584,Ebba Persson,Female,20,18-24,04/03/2006,SWE,Sweden,Luge,Women's Singles,Individual,None,,,2,0,0,0,0,202,535,1896,1,No,Marc Gauthier,170.3,57.3,19.8
+ATH-08588,Eero Korhonen,Male,21,18-24,12/06/2005,FIN,Finland,Bobsleigh,2-woman,Team,Silver,253.68,seconds,2,1,0,1,0,162,490,1908,4,No,Hanspeter Lüscher,176.5,78.9,25.3
+ATH-08727,Elena Bianchi,Female,38,35-39,05/02/1988,ITA,Italy,Skeleton,Men's Skeleton,Individual,None,,,1,0,0,0,0,257,780,1896,1,No,Dieter Hegen,170.1,58.1,20.1
+ATH-08572,Elena Rizzo,Female,26,25-29,17/09/2000,ITA,Italy,Speed Skating,500m,Individual,None,,,2,0,0,0,0,257,780,1896,1,No,Alexander Wolf,167.5,62.4,22.2
+ATH-08623,Elvira Larsson,Female,18,18-24,09/08/2008,SWE,Sweden,Cross-Country Skiing,Sprint,Individual,Silver,16.17,minutes,1,1,0,1,0,202,535,1896,1,No,Mikael Andersson,150.1,40,17.8
+ATH-08693,Eve Davies,Female,36,35-39,03/03/1990,GBR,Great Britain,Ski Mountaineering,Women's Sprint,Individual,Silver,1956.77,seconds,1,1,0,1,0,288,960,1896,1,No,Alexander Wolf,159,50.5,20.0
+ATH-08577,Eve Evans,Female,26,25-29,01/09/2000,GBR,Great Britain,Biathlon,15km Mass Start,Team,None,,,2,1,0,0,1,288,960,1896,1,No,Yuri Borodavko,167.1,53.7,19.2
+ATH-08686,Eve Jones,Female,25,25-29,16/05/2001,GBR,Great Britain,Ski Jumping,Large Hill Individual,Individual,None,,,2,0,0,0,0,288,960,1896,1,No,Yuri Borodavko,171.5,59.6,20.3
+ATH-08677,Fan Chen,Female,30,30-34,22/12/1996,CHN,China,Snowboarding,Snowboard Cross,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,Marc Gauthier,166.6,62.5,22.5
+ATH-08604,Fan Zhang,Female,29,25-29,27/11/1997,CHN,China,Skeleton,Women's Skeleton,Individual,None,,,3,0,0,0,0,265,650,1952,1,No,Yuri Borodavko,167.7,61.6,21.9
+ATH-08735,Fan Zhao,Female,20,18-24,14/03/2006,CHN,China,Cross-Country Skiing,Sprint,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,Yuri Borodavko,168.3,59.6,21.0
+ATH-08508,Federica Brignone,Female,36,35-39,14/07/1990,ITA,Italy,Alpine Skiing,Giant Slalom,Individual,Gold,135.5,seconds,5,6,2,2,2,257,780,1896,1,No,Gianluca Rulfi,168,59,20.9
+ATH-08508,Federica Brignone,Female,36,35-39,14/07/1990,ITA,Italy,Alpine Skiing,Super-G,Individual,Gold,73.15,seconds,5,6,2,2,2,257,780,1896,1,No,Gianluca Rulfi,168,59,20.9
+ATH-08553,Felix Weber,Male,22,18-24,06/03/2004,GER,Germany,Luge,Women's Singles,Individual,None,,,1,0,0,0,0,283,900,1896,1,No,Marc Gauthier,174.4,74.5,24.5
+ATH-08563,Femke Smit,Female,29,25-29,26/03/1997,NED,Netherlands,Snowboarding,Halfpipe,Individual,None,,,1,0,0,0,0,131,380,1900,1,No,Hanspeter Lüscher,166.7,60.8,21.9
+ATH-08621,Femke de Vries,Female,33,30-34,24/01/1993,NED,Netherlands,Figure Skating,Pairs,Team,None,,,3,0,0,0,0,131,380,1900,1,No,Marc Gauthier,153.7,41,17.4
+ATH-08738,Francesca Ferrari,Female,26,25-29,08/04/2000,ITA,Italy,Bobsleigh,2-woman,Team,None,,,2,0,0,0,0,257,780,1896,1,No,Hanspeter Lüscher,162.3,58.4,22.2
+ATH-08626,Francesca Grosso,Female,33,30-34,06/08/1993,ITA,Italy,Ski Jumping,Normal Hill Individual,Team,None,,,1,0,0,0,0,257,780,1896,1,No,Marc Gauthier,165.9,57.4,20.9
+ATH-08528,Francesco Friedrich,Male,36,35-39,02/05/1990,GER,Germany,Bobsleigh,2-man,Team,Gold,234.15,seconds,4,6,6,0,0,283,900,1896,1,No,Rene Spies,183,97,29.0
+ATH-08507,Franjo von Allmen,Male,25,25-29,24/07/2001,SUI,Switzerland,Alpine Skiing,Downhill,Individual,Gold,101.2,seconds,1,3,3,0,0,115,360,1896,1,No,Thomas Stauffer,183,84,25.1
+ATH-08507,Franjo von Allmen,Male,25,25-29,24/07/2001,SUI,Switzerland,Alpine Skiing,Super-G,Individual,Gold,78.45,seconds,1,3,3,0,0,115,360,1896,1,No,Thomas Stauffer,183,84,25.1
+ATH-08548,Frida Olsson,Female,37,35-39,07/02/1989,SWE,Sweden,Curling,Mixed Doubles,Team,None,,,1,0,0,0,0,202,535,1896,1,No,Dieter Hegen,170.4,57.3,19.7
+ATH-08570,Hailey Anderson,Female,32,30-34,08/12/1994,USA,United States,Snowboarding,Parallel Giant Slalom,Individual,None,,,1,0,0,0,0,1073,3015,1896,1,No,John Campbell,173.1,63.7,21.3
+ATH-08599,Henrik Johansen,Male,38,35-39,07/04/1988,NOR,Norway,Ski Jumping,Normal Hill Individual,Individual,Silver,250.32,points,3,1,0,1,0,166,446,1900,1,No,Mikael Andersson,184.7,87.8,25.7
+ATH-08526,Hilary Knight,Female,37,35-39,12/07/1989,USA,United States,Ice Hockey,Women's Tournament,Team,Gold,3,goals,5,5,2,3,0,1073,3015,1896,1,No,John Wroblewski,180,78,24.1
+ATH-08705,Iivo Koskinen,Male,21,18-24,10/06/2005,FIN,Finland,Alpine Skiing,Super-G,Individual,None,,,1,0,0,0,0,162,490,1908,4,No,Dieter Hegen,177.3,77.4,24.6
+ATH-08586,Iivo Laine,Male,34,30-34,12/02/1992,FIN,Finland,Figure Skating,Ice Dance,Individual,None,,,1,0,0,0,0,162,490,1908,4,No,Hanspeter Lüscher,189.7,90.3,25.1
+ATH-08618,Iivo Nieminen,Male,21,18-24,12/11/2005,FIN,Finland,Skeleton,Men's Skeleton,Individual,None,,,2,0,0,0,0,162,490,1908,4,No,Marc Gauthier,194.4,96.1,25.4
+ATH-08560,Ilkka Heikkinen,Male,37,35-39,09/02/1989,FIN,Finland,Bobsleigh,4-man,Team,None,,,1,0,0,0,0,162,490,1908,4,No,Elena Valbe,177.6,76.7,24.3
+ATH-08695,Ilkka Koskinen,Male,35,35-39,19/10/1991,FIN,Finland,Ice Hockey,Men's Tournament,Team,Silver,4.54,goals,2,1,0,1,0,162,490,1908,4,No,Gilles Jager,183.4,89.1,26.5
+ATH-08522,Jack Hughes,Male,25,25-29,14/05/2001,USA,United States,Ice Hockey,Men's Tournament,Team,Gold,2,goals,1,1,1,0,0,1073,3015,1896,1,No,John Hynes,180,79,24.4
+ATH-08543,James Taylor,Male,32,30-34,14/02/1994,GBR,Great Britain,Luge,Doubles,Individual,None,,,1,0,0,0,0,288,960,1896,1,No,Alexander Wolf,182.6,89.3,26.8
+ATH-08640,Jennifer Evans,Female,34,30-34,01/03/1992,GBR,Great Britain,Ice Hockey,Men's Tournament,Team,None,,,1,0,0,0,0,288,960,1896,1,No,Dieter Hegen,162.2,55.6,21.1
+ATH-08514,Jessie Diggins,Female,35,35-39,27/08/1991,USA,United States,Cross-Country Skiing,10km Freestyle,Individual,Bronze,23.45,minutes,4,4,1,1,2,1073,3015,1896,1,No,Matt Whitcomb,163,54,20.3
+ATH-08513,Johannes Dale-Skjevdal,Male,29,25-29,24/05/1997,NOR,Norway,Biathlon,15km Mass Start,Individual,Gold,35.15,minutes,1,1,1,0,0,166,446,1900,1,No,Egil Kristiansen,182,77,23.2
+ATH-08515,Johannes Høsflot Klæbo,Male,30,30-34,22/10/1996,NOR,Norway,Cross-Country Skiing,Sprint,Individual,Gold,172.5,seconds,3,9,7,1,1,166,446,1900,1,No,Arild Monsen,183,76,22.7
+ATH-08557,John Chen,Male,35,35-39,15/06/1991,USA,United States,Cross-Country Skiing,Sprint,Team,None,,,1,0,0,0,0,1073,3015,1896,1,No,Elena Valbe,173.7,73,24.2
+ATH-08660,John Davis,Male,19,18-24,14/01/2007,USA,United States,Luge,Doubles,Individual,None,,,3,0,0,0,0,1073,3015,1896,1,No,Dieter Hegen,170.9,76.3,26.1
+ATH-08615,John Johnson,Male,35,35-39,08/02/1991,USA,United States,Ski Mountaineering,Women's Sprint,Individual,None,,,2,3,1,1,1,1073,3015,1896,1,No,Yuri Borodavko,174.7,74,24.2
+ATH-08737,Joni Koskinen,Male,27,25-29,20/04/1999,FIN,Finland,Speed Skating,1000m,Individual,None,,,3,1,0,0,1,162,490,1908,4,No,Mikael Andersson,170.9,70,24.0
+ATH-08647,Joni Laine,Male,37,35-39,16/04/1989,FIN,Finland,Figure Skating,Pairs,Team,None,,,1,0,0,0,0,162,490,1908,4,No,Hanspeter Lüscher,176.9,75.7,24.2
+ATH-08538,Joni Mäkinen,Male,31,30-34,12/11/1995,FIN,Finland,Speed Skating,1000m,Team,None,,,1,0,0,0,0,162,490,1908,4,No,Mikael Andersson,168.2,68.2,24.1
+ATH-08731,Joni Nieminen,Male,22,18-24,19/04/2004,FIN,Finland,Snowboarding,Slopestyle,Individual,None,,,3,0,0,0,0,162,490,1908,4,No,Elena Valbe,178.1,82.8,26.1
+ATH-08598,Jonna Larsson,Female,23,18-24,16/10/2003,SWE,Sweden,Figure Skating,Women's Singles,Individual,None,,,2,0,0,0,0,202,535,1896,1,No,Marc Gauthier,162.4,47.5,18.0
+ATH-08656,Jonna Nilsson,Female,36,35-39,10/09/1990,SWE,Sweden,Bobsleigh,2-man,Individual,None,,,1,0,0,0,0,202,535,1896,1,No,Mikael Andersson,166.4,55.9,20.2
+ATH-08704,Jonna Olsson,Female,24,18-24,09/12/2002,SWE,Sweden,Figure Skating,Women's Singles,Team,None,,,1,0,0,0,0,202,535,1896,1,No,Alexander Wolf,164.5,44.9,16.6
+ATH-08501,Jordan Stolz,Male,22,18-24,21/05/2004,USA,United States,Speed Skating,500m,Individual,Gold,34.25,seconds,2,3,2,1,0,1073,3015,1896,1,Yes,Bob Fenn,191,86,23.6
+ATH-08501,Jordan Stolz,Male,22,18-24,21/05/2004,USA,United States,Speed Skating,1000m,Individual,Gold,66.5,seconds,2,3,2,1,0,1073,3015,1896,1,Yes,Bob Fenn,191,86,23.6
+ATH-08501,Jordan Stolz,Male,22,18-24,21/05/2004,USA,United States,Speed Skating,1500m,Individual,Silver,103.1,seconds,2,3,2,1,0,1073,3015,1896,1,No,Bob Fenn,191,86,23.6
+ATH-08585,Joy Jansen,Female,23,18-24,24/07/2003,NED,Netherlands,Snowboarding,Snowboard Cross,Individual,None,,,2,1,0,0,1,131,380,1900,1,No,Mikael Andersson,173.1,67.8,22.6
+ATH-08562,Joy de Jong,Female,28,25-29,14/10/1998,NED,Netherlands,Ice Hockey,Men's Tournament,Team,None,,,1,0,0,0,0,131,380,1900,1,No,Mikael Andersson,170.2,58.1,20.1
+ATH-08512,Julia Simon,Female,30,30-34,09/10/1996,FRA,France,Biathlon,4x6km Relay,Team,Gold,69.45,minutes,3,4,1,2,1,254,780,1896,1,No,Cyril Burdet,170,58,20.1
+ATH-08531,Jun Liu,Male,34,30-34,17/06/1992,CHN,China,Snowboarding,Slopestyle,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,Gilles Jager,190.3,93.5,25.8
+ATH-08708,Justine Dubois,Female,23,18-24,11/12/2003,FRA,France,Curling,Women's Tournament,Team,None,,,2,0,0,0,0,254,780,1896,1,No,Yuri Borodavko,164.2,56.6,21.0
+ATH-08664,Justine Gagnon,Female,34,30-34,15/10/1992,CAN,Canada,Skeleton,Men's Skeleton,Individual,Bronze,238.1,seconds,1,1,0,0,1,124,540,1900,1,No,Hanspeter Lüscher,161.1,44.7,17.2
+ATH-08589,Justine MacDonald,Female,30,30-34,23/10/1996,CAN,Canada,Luge,Men's Singles,Individual,None,,,2,1,0,1,0,124,540,1900,1,No,Dieter Hegen,169.7,61.5,21.4
+ATH-08690,Jutta Bakker,Female,21,18-24,08/10/2005,NED,Netherlands,Snowboarding,Snowboard Cross,Individual,None,,,2,0,0,0,0,131,380,1900,1,No,Gilles Jager,162.2,51.5,19.6
+ATH-08648,Jutta Jansen,Female,36,35-39,18/04/1990,NED,Netherlands,Biathlon,15km Individual,Individual,None,,,1,0,0,0,0,131,380,1900,1,No,Alexander Wolf,159.3,59.3,23.4
+ATH-08709,Kaori Ito,Female,37,35-39,13/03/1989,JPN,Japan,Cross-Country Skiing,15km Skiathlon,Individual,None,,,2,2,0,1,1,173,520,1912,1,No,Marc Gauthier,164.7,55.8,20.6
+ATH-08571,Kaori Nakamura,Female,30,30-34,08/07/1996,JPN,Japan,Alpine Skiing,Super-G,Individual,None,,,1,0,0,0,0,173,520,1912,1,No,Hanspeter Lüscher,163.9,55.8,20.8
+ATH-08723,Kaori Sato,Female,32,30-34,18/03/1994,JPN,Japan,Ski Mountaineering,Mixed Relay,Team,None,,,1,0,0,0,0,173,520,1912,1,No,Hanspeter Lüscher,166.6,64.7,23.3
+ATH-08532,Kaori Yamamoto,Female,34,30-34,03/03/1992,JPN,Japan,Ice Hockey,Men's Tournament,Team,None,,,2,1,0,1,0,173,520,1912,1,No,Yuri Borodavko,164.5,55.5,20.5
+ATH-08699,Katharina Becker,Female,20,18-24,16/09/2006,GER,Germany,Snowboarding,Big Air,Individual,None,,,1,0,0,0,0,283,900,1896,1,No,John Campbell,171.8,60.7,20.6
+ATH-08716,Katharina Brunner,Female,38,35-39,23/12/1988,AUT,Austria,Ski Mountaineering,Women's Sprint,Individual,None,,,2,2,1,1,0,95,350,1896,2,No,Elena Valbe,161,49.6,19.1
+ATH-08672,Katharina Fischer,Female,31,30-34,26/10/1995,GER,Germany,Figure Skating,Ice Dance,Team,None,,,1,0,0,0,0,283,900,1896,1,No,Stephan Hanke,164.3,49.5,18.3
+ATH-08726,Katharina Hofmann,Female,24,18-24,14/10/2002,GER,Germany,Snowboarding,Parallel Giant Slalom,Individual,None,,,2,0,0,0,0,283,900,1896,1,No,Alexander Wolf,165,60,22.0
+ATH-08646,Katharina Pfeifer,Female,29,25-29,17/11/1997,AUT,Austria,Biathlon,15km Mass Start,Team,None,,,2,1,0,0,1,95,350,1896,2,No,Yuri Borodavko,164.8,49.4,18.2
+ATH-08616,Kerttu Heikkinen,Female,37,35-39,25/12/1989,FIN,Finland,Skeleton,Men's Skeleton,Individual,None,,,1,0,0,0,0,162,490,1908,4,No,Marc Gauthier,160.4,46.9,18.2
+ATH-08578,Kerttu Laine,Female,19,18-24,04/10/2007,FIN,Finland,Curling,Men's Tournament,Team,None,,,1,0,0,0,0,162,490,1908,4,No,Mikael Andersson,162.3,50.6,19.2
+ATH-08645,Kerttu Mäkinen,Female,21,18-24,07/06/2005,FIN,Finland,Ice Hockey,Women's Tournament,Team,None,,,1,0,0,0,0,162,490,1908,4,No,Marc Gauthier,173.4,66.7,22.2
+ATH-08724,Kerttu Nieminen,Female,24,18-24,05/08/2002,FIN,Finland,Alpine Skiing,Team Combined,Individual,None,,,1,0,0,0,0,162,490,1908,4,No,Hanspeter Lüscher,172.1,62.6,21.1
+ATH-08657,Kjeld Bakker,Male,24,18-24,28/09/2002,NED,Netherlands,Cross-Country Skiing,15km Skiathlon,Individual,None,,,1,0,0,0,0,131,380,1900,1,No,Mikael Andersson,180.4,87.6,26.9
+ATH-08620,Kjeld Smit,Male,35,35-39,23/02/1991,NED,Netherlands,Ski Jumping,Large Hill Individual,Individual,None,,,3,0,0,0,0,131,380,1900,1,No,Dieter Hegen,183.9,85.8,25.4
+ATH-08627,Krista Nieminen,Female,37,35-39,05/07/1989,FIN,Finland,Bobsleigh,4-man,Individual,Bronze,238.8,seconds,2,1,0,0,1,162,490,1908,4,No,Yuri Borodavko,156.5,53.1,21.7
+ATH-08691,Krista Virtanen,Female,32,30-34,25/06/1994,FIN,Finland,Figure Skating,Pairs,Individual,None,,,2,0,0,0,0,162,490,1908,4,No,John Campbell,170.9,57.5,19.7
+ATH-08697,Kristian Bø,Male,28,25-29,24/08/1998,NOR,Norway,Skeleton,Men's Skeleton,Individual,None,,,1,0,0,0,0,166,446,1900,1,No,Mikael Andersson,194.2,99.3,26.3
+ATH-08649,Kristian Johansen,Male,32,30-34,24/04/1994,NOR,Norway,Luge,Women's Singles,Individual,None,,,2,0,0,0,0,166,446,1900,1,No,Dieter Hegen,174.9,82.3,26.9
+ATH-08580,Lara Odermatt,Female,27,25-29,01/03/1999,SUI,Switzerland,Alpine Skiing,Super-G,Individual,None,,,1,0,0,0,0,115,360,1896,1,No,Alexander Wolf,166.8,58.2,20.9
+ATH-08669,Laura Becker,Female,26,25-29,13/07/2000,GER,Germany,Figure Skating,Pairs,Individual,None,,,1,0,0,0,0,283,900,1896,1,No,Hanspeter Lüscher,162.6,60.1,22.7
+ATH-08529,Laura Nolte,Female,28,25-29,23/11/1998,GER,Germany,Bobsleigh,Monobob,Individual,Gold,250.45,seconds,2,3,3,0,0,283,900,1896,1,No,Rene Spies,172,74,25.0
+ATH-08541,Laurie Campbell,Female,33,30-34,03/08/1993,CAN,Canada,Alpine Skiing,Team Combined,Team,None,,,2,0,0,0,0,124,540,1900,1,No,Elena Valbe,164.6,55.4,20.4
+ATH-08714,Laurie Lafleur,Female,35,35-39,11/08/1991,CAN,Canada,Ski Mountaineering,Men's Sprint,Individual,None,,,1,0,0,0,0,124,540,1900,1,No,Mikael Andersson,177.2,69.1,22.0
+ATH-08740,Li Zhang,Female,26,25-29,26/03/2000,CHN,China,Figure Skating,Ice Dance,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,Mikael Andersson,166.3,54.5,19.7
+ATH-08511,Lisa Vittozzi,Female,31,30-34,04/02/1995,ITA,Italy,Biathlon,15km Individual,Individual,Gold,42.15,minutes,3,2,1,0,1,257,780,1896,1,No,Alexander Inderst,172,60,20.3
+ATH-08581,Loic Weber,Male,25,25-29,24/02/2001,SUI,Switzerland,Speed Skating,5000m,Team,None,,,1,0,0,0,0,115,360,1896,1,No,Gilles Jager,174.7,71.2,23.3
+ATH-08736,Lou Richard,Female,22,18-24,13/11/2004,FRA,France,Ski Mountaineering,Women's Sprint,Individual,Silver,1828.96,seconds,1,1,0,1,0,254,780,1896,1,No,Elena Valbe,159.1,51.4,20.3
+ATH-08536,Lou Robert,Female,25,25-29,11/10/2001,FRA,France,Bobsleigh,4-man,Individual,None,,,2,0,0,0,0,254,780,1896,1,No,John Campbell,164,57.8,21.5
+ATH-08509,Loïc Meillard,Male,30,30-34,29/10/1996,SUI,Switzerland,Alpine Skiing,Slalom,Individual,Gold,98.4,seconds,3,3,2,1,0,115,360,1896,1,No,Thomas Stauffer,176,80,25.8
+ATH-08551,Luca Ferrari,Male,32,30-34,25/08/1994,ITA,Italy,Curling,Men's Tournament,Team,None,,,1,0,0,0,0,257,780,1896,1,No,Gilles Jager,157.6,59.6,24.0
+ATH-08722,Luca Grosso,Male,22,18-24,09/06/2004,ITA,Italy,Skeleton,Women's Skeleton,Individual,None,,,2,2,1,1,0,257,780,1896,1,No,Alexander Wolf,173.1,77.9,26.0
+ATH-08546,Luca Pellegrini,Male,18,18-24,13/08/2008,ITA,Italy,Cross-Country Skiing,4x10km Relay,Individual,None,,,2,0,0,0,0,257,780,1896,1,No,Stephan Hanke,180.4,79.6,24.5
+ATH-08506,Lucas Pinheiro Braathen,Male,26,25-29,19/04/2000,BRA,Brazil,Alpine Skiing,Giant Slalom,Individual,Gold,146.35,seconds,2,1,1,0,0,38,151,1920,12,No,Peter Gerdol,179,79,24.7
+ATH-08651,Lukas Becker,Male,26,25-29,14/10/2000,GER,Germany,Cross-Country Skiing,10km Freestyle,Individual,None,,,3,0,0,0,0,283,900,1896,1,No,Dieter Hegen,185.2,79.2,23.1
+ATH-08719,Lukas Fischer,Male,33,30-34,02/10/1993,GER,Germany,Bobsleigh,4-man,Team,None,,,2,2,1,0,1,283,900,1896,1,No,Elena Valbe,181.9,77.9,23.5
+ATH-08592,Lukas Hofmann,Male,36,35-39,27/03/1990,GER,Germany,Biathlon,15km Individual,Team,None,,,1,0,0,0,0,283,900,1896,1,No,Yuri Borodavko,185.5,84,24.4
+ATH-08659,Mai Nakamura,Female,34,30-34,14/07/1992,JPN,Japan,Alpine Skiing,Team Combined,Individual,Silver,99.76,seconds,2,1,0,1,0,173,520,1912,1,No,John Campbell,164.6,52.4,19.3
+ATH-08683,Mai Suzuki,Female,35,35-39,25/12/1991,JPN,Japan,Ski Mountaineering,Men's Sprint,Individual,None,,,3,0,0,0,0,173,520,1912,1,No,Dieter Hegen,172.9,71.7,24.0
+ATH-08674,Mai Takahashi,Female,19,18-24,10/02/2007,JPN,Japan,Speed Skating,1000m,Team,None,,,3,0,0,0,0,173,520,1912,1,No,Yuri Borodavko,159.4,51.8,20.4
+ATH-08713,Manuel Brunner,Male,37,35-39,25/04/1989,AUT,Austria,Speed Skating,Team Pursuit,Individual,None,,,1,0,0,0,0,95,350,1896,2,No,Stephan Hanke,176,83.6,27.0
+ATH-08558,Manuel Pfeifer,Male,37,35-39,14/07/1989,AUT,Austria,Ski Mountaineering,Men's Sprint,Individual,None,,,1,0,0,0,0,95,350,1896,2,No,Hanspeter Lüscher,173.6,76.9,25.5
+ATH-08574,Marco Keller,Male,35,35-39,28/07/1991,SUI,Switzerland,Ice Hockey,Women's Tournament,Team,None,,,1,0,0,0,0,115,360,1896,1,No,John Campbell,173.7,71.3,23.6
+ATH-08639,Marco Meier,Male,29,25-29,18/09/1997,SUI,Switzerland,Curling,Men's Tournament,Team,None,,,3,0,0,0,0,115,360,1896,1,No,Elena Valbe,180.1,80.1,24.7
+ATH-08510,Marco Odermatt,Male,29,25-29,08/10/1997,SUI,Switzerland,Alpine Skiing,Giant Slalom,Individual,Silver,146.85,seconds,2,3,2,1,0,115,360,1896,1,No,Helmut Krug,183,84,25.1
+ATH-08702,Marco Suter,Male,34,30-34,04/12/1992,SUI,Switzerland,Biathlon,12.5km Pursuit,Individual,None,,,1,0,0,0,0,115,360,1896,1,No,Stephan Hanke,181.2,74.8,22.8
+ATH-08535,Marco Weber,Male,25,25-29,04/02/2001,SUI,Switzerland,Ski Jumping,Large Hill Individual,Team,None,,,1,0,0,0,0,115,360,1896,1,No,John Campbell,177.5,77,24.4
+ATH-08521,Marianne Fatton,Female,31,30-34,16/12/1995,SUI,Switzerland,Ski Mountaineering,Women's Sprint,Individual,Gold,192.4,seconds,1,1,1,0,0,115,360,1896,1,No,Malik Fatton,164,53,19.7
+ATH-08527,Marie-Philip Poulin,Female,35,35-39,28/03/1991,CAN,Canada,Ice Hockey,Women's Tournament,Team,Silver,4,goals,5,5,3,2,0,124,540,1900,1,No,Troy Ryan,170,73,25.3
+ATH-08692,Marit Hansen,Female,37,35-39,19/11/1989,NOR,Norway,Bobsleigh,4-man,Individual,None,,,2,0,0,0,0,166,446,1900,1,No,Yuri Borodavko,154.9,40,16.7
+ATH-08619,Mark Lafleur,Male,29,25-29,08/06/1997,CAN,Canada,Speed Skating,1000m,Individual,None,,,1,0,0,0,0,124,540,1900,1,No,John Campbell,179.3,83,25.8
+ATH-08583,Mark Morin,Male,22,18-24,07/11/2004,CAN,Canada,Figure Skating,Pairs,Individual,None,,,1,0,0,0,0,124,540,1900,1,No,Dieter Hegen,191.2,90.9,24.9
+ATH-08617,Matteo Goggia,Male,22,18-24,25/09/2004,ITA,Italy,Speed Skating,1500m,Individual,None,,,2,0,0,0,0,257,780,1896,1,No,Dieter Hegen,165.8,66,24.0
+ATH-08594,Maxence Morin,Male,36,35-39,25/03/1990,CAN,Canada,Bobsleigh,2-man,Team,None,,,2,0,0,0,0,124,540,1900,1,No,Stephan Hanke,172.8,70.9,23.7
+ATH-08633,Maxence Roy,Male,19,18-24,05/01/2007,CAN,Canada,Bobsleigh,2-woman,Individual,None,,,3,0,0,0,0,124,540,1900,1,No,Alexander Wolf,183.3,80,23.8
+ATH-08688,Maximilian Müller,Male,35,35-39,22/10/1991,GER,Germany,Snowboarding,Big Air,Individual,None,,,1,0,0,0,0,283,900,1896,1,No,Gilles Jager,164.5,63.3,23.4
+ATH-08628,Maximilian Weber,Male,26,25-29,22/08/2000,GER,Germany,Figure Skating,Ice Dance,Individual,Silver,228.11,points,1,1,0,1,0,283,900,1896,1,No,Mikael Andersson,182.1,77,23.2
+ATH-08629,Michelle Gisin,Female,30,30-34,17/05/1996,SUI,Switzerland,Ski Mountaineering,Men's Sprint,Individual,Silver,1281.51,seconds,2,1,0,1,0,115,360,1896,1,No,Yuri Borodavko,164.1,55.9,20.8
+ATH-08587,Miho Takahashi,Female,33,30-34,19/03/1993,JPN,Japan,Alpine Skiing,Team Combined,Individual,None,,,1,0,0,0,0,173,520,1912,1,No,Marc Gauthier,164.4,52.8,19.5
+ATH-08725,Miho Tanaka,Female,25,25-29,09/11/2001,JPN,Japan,Biathlon,15km Individual,Individual,None,,,1,0,0,0,0,173,520,1912,1,No,Gilles Jager,161.9,58.2,22.2
+ATH-08505,Mikaela Shiffrin,Female,31,30-34,13/03/1995,USA,United States,Alpine Skiing,Slalom,Individual,Gold,102.55,seconds,4,5,3,1,1,1073,3015,1896,1,No,Karin Harjo,170,64,22.1
+ATH-08516,Mikhail Shaidorov,Male,22,18-24,25/06/2004,KAZ,Kazakhstan,Figure Skating,Men's Singles,Individual,Gold,312.45,points,1,1,1,0,0,2,9,1994,12,No,Alexei Urmanov,176,68,22.0
+ATH-08652,Mirjam Gruber,Female,33,30-34,06/03/1993,AUT,Austria,Luge,Women's Singles,Individual,None,,,2,0,0,0,0,95,350,1896,2,No,Hanspeter Lüscher,158.8,46.5,18.4
+ATH-08718,Mirjam Huber,Female,21,18-24,13/10/2005,AUT,Austria,Cross-Country Skiing,50km Mass Start,Individual,None,,,2,0,0,0,0,95,350,1896,2,No,Mikael Andersson,169.1,60.2,21.1
+ATH-08544,Mirjam Mayer,Female,19,18-24,28/11/2007,AUT,Austria,Snowboarding,Big Air,Individual,None,,,1,0,0,0,0,95,350,1896,2,No,Marc Gauthier,155.8,40,16.5
+ATH-08658,Muirhead Brown,Female,24,18-24,17/06/2002,GBR,Great Britain,Ski Mountaineering,Mixed Relay,Individual,None,,,1,0,0,0,0,288,960,1896,1,No,Stephan Hanke,173,64.1,21.4
+ATH-08732,Muirhead Evans,Female,35,35-39,24/02/1991,GBR,Great Britain,Curling,Mixed Doubles,Team,None,,,1,0,0,0,0,288,960,1896,1,No,John Campbell,156.8,41.5,16.9
+ATH-08698,Nooralotta Heikkinen,Female,24,18-24,07/12/2002,FIN,Finland,Ice Hockey,Women's Tournament,Team,Silver,8.12,goals,1,1,0,1,0,162,490,1908,4,No,John Campbell,171.4,66.9,22.8
+ATH-08728,Nooralotta Laine,Female,20,18-24,24/07/2006,FIN,Finland,Snowboarding,Slopestyle,Individual,None,,,1,0,0,0,0,162,490,1908,4,No,Alexander Wolf,169.3,55.6,19.4
+ATH-08741,Nooralotta Mäkinen,Female,36,35-39,06/01/1990,FIN,Finland,Snowboarding,Parallel Giant Slalom,Individual,None,,,1,0,0,0,0,162,490,1908,4,No,Elena Valbe,163.4,50.9,19.1
+ATH-08520,Oriol Cardona Coll,Male,32,30-34,07/10/1994,ESP,Spain,Ski Mountaineering,Men's Sprint,Individual,Gold,165.2,seconds,1,1,1,0,0,5,21,1900,11,No,Guillem Sancho,175,62,20.2
+ATH-08579,Oskar Larsson,Male,29,25-29,10/03/1997,SWE,Sweden,Figure Skating,Team Event,Team,None,,,3,0,0,0,0,202,535,1896,1,No,John Campbell,174.1,66.6,22.0
+ATH-08607,Oskar Nilsson,Male,19,18-24,01/09/2007,SWE,Sweden,Snowboarding,Halfpipe,Individual,None,,,3,0,0,0,0,202,535,1896,1,No,Yuri Borodavko,176.9,81,25.9
+ATH-08625,Patrick Visser,Male,27,25-29,14/05/1999,NED,Netherlands,Figure Skating,Women's Singles,Individual,None,,,1,0,0,0,0,131,380,1900,1,No,Stephan Hanke,189.8,85,23.6
+ATH-08703,Patrick van Dijk,Male,19,18-24,14/10/2007,NED,Netherlands,Figure Skating,Women's Singles,Individual,None,,,3,2,1,0,1,131,380,1900,1,No,Elena Valbe,179.4,73.1,22.7
+ATH-08634,Quentin Martin,Male,18,18-24,10/06/2008,FRA,France,Ice Hockey,Men's Tournament,Team,None,,,1,0,0,0,0,254,780,1896,1,No,Marc Gauthier,168.6,73.6,25.9
+ATH-08662,Quentin Petit,Male,21,18-24,12/02/2005,FRA,France,Ski Jumping,Team Large Hill,Individual,None,,,1,0,0,0,0,254,780,1896,1,No,Yuri Borodavko,182.8,78.9,23.6
+ATH-08675,Quentin Richard,Male,29,25-29,03/03/1997,FRA,France,Snowboarding,Halfpipe,Individual,None,,,1,0,0,0,0,254,780,1896,1,No,Dieter Hegen,186.4,83.4,24.0
+ATH-08630,Ragnhild Bakken,Female,32,30-34,14/12/1994,NOR,Norway,Curling,Women's Tournament,Team,None,,,1,0,0,0,0,166,446,1900,1,No,Mikael Andersson,170.4,67.1,23.1
+ATH-08556,Ragnhild Larsen,Female,36,35-39,01/10/1990,NOR,Norway,Ice Hockey,Men's Tournament,Team,None,,,3,0,0,0,0,166,446,1900,1,No,Gilles Jager,164.9,53.5,19.7
+ATH-08717,Ragnhild Rustad,Female,28,25-29,13/08/1998,NOR,Norway,Alpine Skiing,Team Combined,Individual,None,,,2,0,0,0,0,166,446,1900,1,No,Gilles Jager,168.9,52.5,18.4
+ATH-08613,Ramon Keller,Male,22,18-24,28/09/2004,SUI,Switzerland,Cross-Country Skiing,Sprint,Individual,None,,,1,0,0,0,0,115,360,1896,1,No,Alexander Wolf,179.5,78.2,24.3
+ATH-08614,Ramon Meier,Male,24,18-24,07/06/2002,SUI,Switzerland,Alpine Skiing,Super-G,Individual,None,,,2,0,0,0,0,115,360,1896,1,No,Stephan Hanke,174.5,74.1,24.3
+ATH-08685,Ramon Müller,Male,37,35-39,03/08/1989,SUI,Switzerland,Ski Mountaineering,Mixed Relay,Individual,None,,,1,0,0,0,0,115,360,1896,1,No,John Campbell,165.3,61,22.3
+ATH-08533,Ramon Weber,Male,32,30-34,02/09/1994,SUI,Switzerland,Curling,Men's Tournament,Team,None,,,3,0,0,0,0,115,360,1896,1,No,Marc Gauthier,179.9,78.9,24.4
+ATH-08596,Ramona Haid,Female,27,25-29,07/04/1999,AUT,Austria,Luge,Doubles,Individual,None,,,1,0,0,0,0,95,350,1896,2,No,Hanspeter Lüscher,157.9,47.6,19.1
+ATH-08637,Ramona Huber,Female,36,35-39,25/05/1990,AUT,Austria,Ice Hockey,Men's Tournament,Team,None,,,1,0,0,0,0,95,350,1896,2,No,Marc Gauthier,162.4,48.5,18.4
+ATH-08537,Ramona Mayer,Female,24,18-24,19/10/2002,AUT,Austria,Bobsleigh,Monobob,Team,None,,,1,0,0,0,0,95,350,1896,2,No,Alexander Wolf,161.7,63.3,24.2
+ATH-08681,Ramona Schmid,Female,24,18-24,24/02/2002,AUT,Austria,Ice Hockey,Women's Tournament,Team,None,,,1,0,0,0,0,95,350,1896,2,No,John Campbell,159.9,43.8,17.1
+ATH-08518,Riku Miura,Female,25,25-29,17/12/2001,JPN,Japan,Figure Skating,Pairs,Team,Gold,235.8,points,2,2,1,1,0,173,520,1912,1,No,Bruno Marcotte,145,42,20.0
+ATH-08678,Ryan White,Male,22,18-24,06/05/2004,USA,United States,Curling,Mixed Doubles,Team,None,,,2,1,0,1,0,1073,3015,1896,1,No,Stephan Hanke,174,69.8,23.1
+ATH-08552,Ryo Yamamoto,Male,23,18-24,05/05/2003,JPN,Japan,Ski Mountaineering,Men's Sprint,Individual,None,,,2,0,0,0,0,173,520,1912,1,No,Dieter Hegen,174.7,71.6,23.5
+ATH-08632,Ryota Ito,Male,28,25-29,16/12/1998,JPN,Japan,Curling,Men's Tournament,Team,None,,,1,0,0,0,0,173,520,1912,1,No,Stephan Hanke,169.3,62.9,21.9
+ATH-08706,Ryota Tanaka,Male,27,25-29,17/12/1999,JPN,Japan,Biathlon,12.5km Pursuit,Team,None,,,3,0,0,0,0,173,520,1912,1,No,Dieter Hegen,181.7,82.3,24.9
+ATH-08519,Ryuichi Kihara,Male,34,30-34,22/08/1992,JPN,Japan,Figure Skating,Pairs,Team,Gold,235.8,points,4,2,1,1,0,173,520,1912,1,No,Bruno Marcotte,175,72,23.5
+ATH-08565,Sarah Davis,Female,29,25-29,07/03/1997,USA,United States,Luge,Men's Singles,Individual,None,,,3,2,1,0,1,1073,3015,1896,1,No,Elena Valbe,165.3,58.6,21.4
+ATH-08661,Sarah Smith,Female,30,30-34,19/11/1996,USA,United States,Figure Skating,Pairs,Team,None,,,2,0,0,0,0,1073,3015,1896,1,No,Mikael Andersson,178.8,70.1,21.9
+ATH-08707,Sebastian Andersson,Male,30,30-34,03/07/1996,SWE,Sweden,Bobsleigh,2-woman,Individual,None,,,3,0,0,0,0,202,535,1896,1,No,Dieter Hegen,185.1,90.2,26.3
+ATH-08684,Sebastien Gagnon,Male,38,35-39,17/07/1988,CAN,Canada,Alpine Skiing,Slalom,Team,None,,,2,0,0,0,0,124,540,1900,1,No,Marc Gauthier,185.9,84.7,24.5
+ATH-08575,Sebastien Tremblay,Male,28,25-29,04/08/1998,CAN,Canada,Ski Jumping,Normal Hill Individual,Individual,None,,,1,0,0,0,0,124,540,1900,1,No,Mikael Andersson,174.8,66.4,21.7
+ATH-08730,Selina Schneider,Female,35,35-39,14/12/1991,GER,Germany,Speed Skating,1500m,Individual,Silver,266.46,seconds,1,1,0,1,0,283,900,1896,1,No,Dieter Hegen,173.3,64.8,21.6
+ATH-08712,Shoma Takahashi,Male,18,18-24,28/11/2008,JPN,Japan,Skeleton,Women's Skeleton,Individual,None,,,2,0,0,0,0,173,520,1912,1,No,Yuri Borodavko,182.2,76.5,23.0
+ATH-08525,Sidney Crosby,Male,39,35-39,07/08/1987,CAN,Canada,Ice Hockey,Men's Tournament,Team,Silver,1,goals,3,3,2,1,0,124,540,1900,1,No,Jon Cooper,180,91,28.1
+ATH-08590,Sindre Larsen,Male,30,30-34,10/08/1996,NOR,Norway,Speed Skating,1000m,Individual,None,,,2,0,0,0,0,166,446,1900,1,No,Stephan Hanke,175,76.1,24.8
+ATH-08710,Sofia Goggia,Female,36,35-39,10/06/1990,ITA,Italy,Luge,Doubles,Individual,None,,,1,0,0,0,0,257,780,1896,1,No,Mikael Andersson,162.2,55.6,21.1
+ATH-08549,Sofia Rizzo,Female,38,35-39,15/02/1988,ITA,Italy,Ski Mountaineering,Women's Sprint,Individual,Silver,1473.32,seconds,3,1,0,1,0,257,780,1896,1,No,Elena Valbe,175.3,64.9,21.1
+ATH-08564,Sofia Rossi,Female,35,35-39,04/07/1991,ITA,Italy,Bobsleigh,Monobob,Individual,Bronze,248.66,seconds,1,1,0,0,1,257,780,1896,1,No,Hanspeter Lüscher,157.8,44.9,18.0
+ATH-08534,Sota Ito,Male,37,35-39,06/09/1989,JPN,Japan,Ski Jumping,Normal Hill Individual,Individual,None,,,1,0,0,0,0,173,520,1912,1,No,Alexander Wolf,167,74,26.5
+ATH-08502,Su Yiming,Male,22,18-24,18/02/2004,CHN,China,Snowboarding,Slopestyle,Individual,Gold,88.5,points,2,4,2,1,1,265,650,1952,1,No,Yasuhiro Sato,173,62,20.7
+ATH-08502,Su Yiming,Male,22,18-24,18/02/2004,CHN,China,Snowboarding,Big Air,Individual,Bronze,175.25,points,2,4,2,1,1,265,650,1952,1,No,Yasuhiro Sato,173,62,20.7
+ATH-08566,Sven Smit,Male,22,18-24,01/04/2004,NED,Netherlands,Ski Jumping,Team Large Hill,Individual,None,,,2,0,0,0,0,131,380,1900,1,No,Elena Valbe,176.5,73,23.4
+ATH-08715,Tess Gagnon,Female,25,25-29,04/11/2001,CAN,Canada,Bobsleigh,Monobob,Team,None,,,2,0,0,0,0,124,540,1900,1,No,Hanspeter Lüscher,158.1,41.6,16.6
+ATH-08729,Tess Morin,Female,35,35-39,06/01/1991,CAN,Canada,Ski Jumping,Team Large Hill,Team,None,,,1,0,0,0,0,124,540,1900,1,No,Mikael Andersson,150.9,40.2,17.7
+ATH-08567,Thibaut Richard,Male,27,25-29,01/11/1999,FRA,France,Ice Hockey,Women's Tournament,Team,None,,,2,0,0,0,0,254,780,1896,1,No,Elena Valbe,189.8,89.6,24.9
+ATH-08540,Thomas Bakker,Male,34,30-34,26/02/1992,NED,Netherlands,Bobsleigh,Monobob,Team,None,,,2,0,0,0,0,131,380,1900,1,No,Mikael Andersson,178.9,78.3,24.5
+ATH-08593,Thomas Wiersma,Male,22,18-24,28/09/2004,NED,Netherlands,Curling,Men's Tournament,Team,None,,,1,0,0,0,0,131,380,1900,1,No,Marc Gauthier,179.4,88,27.3
+ATH-08601,Ting Chen,Female,31,30-34,26/01/1995,CHN,China,Luge,Women's Singles,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,Dieter Hegen,168.7,55.9,19.6
+ATH-08689,Ting Wang,Female,23,18-24,07/03/2003,CHN,China,Skeleton,Men's Skeleton,Individual,None,,,2,1,0,1,0,265,650,1952,1,No,Alexander Wolf,165,56.2,20.6
+ATH-08668,Vicky Davies,Female,32,30-34,01/07/1994,GBR,Great Britain,Cross-Country Skiing,10km Freestyle,Individual,None,,,1,0,0,0,0,288,960,1896,1,No,Alexander Wolf,167.9,61.8,21.9
+ATH-08612,Vicky Jones,Female,30,30-34,12/02/1996,GBR,Great Britain,Ski Jumping,Team Large Hill,Individual,None,,,1,0,0,0,0,288,960,1896,1,No,Mikael Andersson,167,49.7,17.8
+ATH-08701,Vicky Wilson,Female,32,30-34,16/07/1994,GBR,Great Britain,Bobsleigh,2-man,Team,None,,,3,0,0,0,0,288,960,1896,1,No,Stephan Hanke,170.5,68.5,23.6
+ATH-08643,Vincent Gruber,Male,21,18-24,18/12/2005,AUT,Austria,Biathlon,15km Mass Start,Individual,None,,,2,0,0,0,0,95,350,1896,2,No,Marc Gauthier,172,62,21.0
+ATH-08743,Vincent Schmid,Male,31,30-34,11/08/1995,AUT,Austria,Bobsleigh,Monobob,Team,None,,,3,0,0,0,0,95,350,1896,2,No,Mikael Andersson,183.5,82.4,24.5
+ATH-08696,Wakaba Suzuki,Female,25,25-29,11/04/2001,JPN,Japan,Skeleton,Women's Skeleton,Individual,Bronze,229.37,seconds,1,1,0,0,1,173,520,1912,1,No,John Campbell,179.1,65.4,20.4
+ATH-08600,Wakaba Watanabe,Female,36,35-39,19/01/1990,JPN,Japan,Curling,Men's Tournament,Team,None,,,2,0,0,0,0,173,520,1912,1,No,Hanspeter Lüscher,161.8,46.7,17.8
+ATH-08721,Wei Chen,Male,19,18-24,02/08/2007,CHN,China,Biathlon,15km Individual,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,Gilles Jager,170.4,76.8,26.4
+ATH-08547,Wei Wu,Male,32,30-34,26/10/1994,CHN,China,Ski Jumping,Team Large Hill,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,Dieter Hegen,185.4,96.1,28.0
+ATH-08687,Wei Yang,Male,35,35-39,12/06/1991,CHN,China,Figure Skating,Ice Dance,Individual,Bronze,205.63,points,1,1,0,0,1,265,650,1952,1,No,Mikael Andersson,178.5,69.7,21.9
+ATH-08667,Wendy Odermatt,Female,36,35-39,10/03/1990,SUI,Switzerland,Alpine Skiing,Team Combined,Individual,Bronze,70.53,seconds,1,1,0,0,1,115,360,1896,1,No,Gilles Jager,168.7,63.2,22.2
+ATH-08561,William Karlsson,Male,30,30-34,04/08/1996,SWE,Sweden,Alpine Skiing,Super-G,Team,None,,,1,0,0,0,0,202,535,1896,1,No,Alexander Wolf,188.8,94.1,26.4
+ATH-08742,Yang Li,Male,31,30-34,16/11/1995,CHN,China,Curling,Mixed Doubles,Team,None,,,2,3,1,1,1,265,650,1952,1,No,Dieter Hegen,173.6,80.4,26.7
+ATH-08582,Yang Wang,Male,34,30-34,23/03/1992,CHN,China,Curling,Mixed Doubles,Team,Silver,6.07,points,3,1,0,1,0,265,650,1952,1,No,Hanspeter Lüscher,173.6,76.9,25.5
+ATH-08550,Yang Zhang,Male,36,35-39,07/10/1990,CHN,China,Alpine Skiing,Super-G,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,Mikael Andersson,182.4,72.9,21.9
+ATH-08576,Ying Li,Female,29,25-29,01/11/1997,CHN,China,Curling,Men's Tournament,Team,None,,,1,0,0,0,0,265,650,1952,1,No,Stephan Hanke,154.5,40,16.8
+ATH-08663,Ying Wang,Female,30,30-34,11/05/1996,CHN,China,Biathlon,15km Individual,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,Stephan Hanke,172.9,65.6,21.9
+ATH-08720,Ying Zhang,Female,23,18-24,03/03/2003,CHN,China,Figure Skating,Women's Singles,Team,None,,,3,0,0,0,0,265,650,1952,1,No,Hanspeter Lüscher,166.5,59.5,21.5
+ATH-08641,Zhi Li,Male,19,18-24,20/06/2007,CHN,China,Curling,Women's Tournament,Team,None,,,2,0,0,0,0,265,650,1952,1,No,John Campbell,172.9,77.9,26.1
+ATH-08694,Zhi Liu,Male,30,30-34,04/11/1996,CHN,China,Ski Jumping,Normal Hill Individual,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,Hanspeter Lüscher,172.1,82.6,27.9
+ATH-08650,Zhi Wang,Male,37,35-39,21/10/1989,CHN,China,Luge,Doubles,Individual,None,,,1,0,0,0,0,265,650,1952,1,No,John Campbell,172.7,77.5,26.0
